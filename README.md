@@ -85,6 +85,9 @@
   <a href="mailto:ngncng.official@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="ngncng-email" />
   </a>
+  <a href="https://html-css-nentang.obito060523.workers.dev/" target="top">
+    <img src="./img/icon-2.jpg" alt="ngncng-cv" height="80" alt="my-cv"/>
+  </a>
 </div>
 
 <br>
@@ -96,3 +99,5 @@
 <a href="#" target="_blank">
   <img src="./svg/ngncng-quotes.svg" width="846" height="150" alt="ngncng-mot-lap-trinh-vien" />
 </a>
+
+
